@@ -1,6 +1,6 @@
 # Snowflake_Pipeline_Project
 
-Pipeline created for Codecademy Snowflake course using SQL. Pipeline uses internal stage where .csv files are added.
+Pipeline created for Codecademy Snowflake course using SQL. Pipeline uses internal stage where .csv files are added. Data contains flight data.
 
 **Pipeline creates**
 - table FLIGHTS and loads data from stage to table with scheduled task 
