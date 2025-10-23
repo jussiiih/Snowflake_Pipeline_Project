@@ -1,6 +1,6 @@
 # Snowflake_Pipelin_Project
 
-Pipeline creted Codecademy Snowflake course. Pipeline uses internal stage where .csv files are loaded.
+Pipeline created for Codecademy Snowflake course. Pipeline uses internal stage where .csv files are loaded.
 Pipeline creates
 - table FLIGHTS and loads data from stage to table with scheduled task 
 - dynamic table PASSENGER_DETAILs from table FLIGHTS
