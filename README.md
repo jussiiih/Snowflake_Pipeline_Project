@@ -1,4 +1,4 @@
-# Snowflake_Projects
+# Snowflake_Pipelin_Project
 
 Pipeline creted Codecademy Snowflake course. Pipeline uses internal stage where .csv files are loaded.
 Pipeline creates
